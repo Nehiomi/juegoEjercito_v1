@@ -15,7 +15,8 @@ import java.util.Scanner;
 public class Juego {
 
     public static void main(String[] args) {
-
+        
+        //Introducción del juego 
         System.out.println("[Juegos del Cord]");
         System.out.println("Acabas de aterrizar en territorio enemigo con una misión bien clara."
                 + "\nDejar la zona hóstil libre para que el resto del ejercito pueda acceder sin problemas y formar una base en la zona.");
